@@ -1,3 +1,6 @@
+# Alexandre Erich Sebastien Georges 111079942
+# Stony Brook University
+
 from soil import Soil
 import pandas
 

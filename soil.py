@@ -1,3 +1,6 @@
+# Alexandre Erich Sebastien Georges 111079942
+# Stony Brook University
+
 from matplotlib import pyplot as plt
 import numpy as np
 import math
@@ -198,7 +201,7 @@ class Soil:
         plt.grid()
         plt.text(0.1, 95, self.symbol + ", " + self.name, size=12,
                  va="baseline", ha="right", multialignment="left",
-                 bbox=dict(fc="none"))
+                 bbox=dict( fc="none"))
         plt.show()
 
     def classify(self):
